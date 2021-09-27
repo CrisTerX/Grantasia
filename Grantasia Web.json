@@ -1,0 +1,15 @@
+{
+"companyName": "PomerStudioGame",
+"productName": "Grantasia",
+"productVersion": "1.0.1",
+"dataUrl": "Grantasia Web.data.unityweb",
+"wasmCodeUrl": "Grantasia Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Grantasia Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.2f1"
+}
